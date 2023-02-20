@@ -3,6 +3,13 @@
 I'm **Fitri Az-Zahra Ramadhini**, you can call me **Fii** or **Fizahra**.\
 I'm interest in **Android Development**
 
+<p align="left">
+<a href="https://github.com/fizahra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fizahra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fizahra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Fizahra/fizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
