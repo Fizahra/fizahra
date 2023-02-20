@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+I'm **Fitri Az-Zahra Ramadhini**, you can call me **Fii** or **Fizahra**.\
+I'm interest in **Android Development**
 
 <!--
 **Fizahra/fizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
